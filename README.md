@@ -6,5 +6,5 @@ Bunny Hold is an Alexa skill that does what a Twitter thread suggested to do...s
 
 Clone the code into a directory
 
-``` git clone https://github.com/danagibson/BunnyGrabber.git
-```
+` git clone https://github.com/danagibson/BunnyGrabber.git
+`
